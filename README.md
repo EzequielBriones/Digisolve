@@ -9,7 +9,7 @@ El proyecto tiene un diseño refinado y simple, que de igual manera logra que la
 
 ### Preview
 
-![Imagen](/resources/img/land-screenshoot)
+![Imagen](https://github.com/EzequielBriones/digisolve/blob/main/resources/img/land-screenshoot.png)
 
 ## Instalación
 
